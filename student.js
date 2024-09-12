@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.querySelector('.logout-btn').addEventListener('click', () => {
-        window.location.href = 'login.html';
+        window.location.href = 'index.html';
     });
 });
 
